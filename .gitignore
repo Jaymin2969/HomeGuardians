@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# React Native packager
+*.log
+*.swp
+
+# Android and iOS build directories
+android/build/
+ios/build/
+ios/Pods/
+
+# React Native Metro bundler cache
+.metro/
+
+# Expo-related files (if using Expo)
+.expo/
+.expo-shared/
+
+# VSCode settings (optional)
+.vscode/
+
+# macOS-specific files
+.DS_Store
+
+# Android Studio and IntelliJ IDEA related files
+.idea/
+
+# Coverage reports (if using jest)
+coverage/
+
+# Build artifacts
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserstate
+
+# Other temporary files
+*.iml
